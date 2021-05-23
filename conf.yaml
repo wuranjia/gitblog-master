@@ -1,0 +1,31 @@
+#GitBlog配置文件，使用4个空格代替Tab
+---
+url: /
+title: 西城三十六房
+subtitle: 闲谈杂志
+theme: quest
+enableCache: true
+highlight: true
+mathjax: false
+katex: false
+youyan:
+baiduAnalytics:
+keywords: Justin,博客,Markdown博客,jockchou
+description: >
+    闲谈杂志
+version: 2.2
+author:
+    name: Justin
+    email: 709641446@qq.com
+    github: your-github
+    weibo: your-weibo
+    avatar:
+blog:
+    recentSize: 5
+    pageSize: 6
+    pageBarSize: 5
+    allBlogsForPage: false
+text:
+    title: 介绍
+    intro: >
+          下次再写
